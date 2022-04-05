@@ -1,0 +1,13 @@
+{
+    "name": "node-weather-cli",
+    "version": "1.0.0",
+    "main": "weather.js",
+    "author": "Franco Speziali <franco.speziali@digitalcareerinstitute.org>",
+    "license": "MIT",
+    "private": true,
+    "dependencies": {
+        "axios": "^0.26.1",
+        "dotenv": "^16.0.0"
+    },
+    "type": "module"
+}
