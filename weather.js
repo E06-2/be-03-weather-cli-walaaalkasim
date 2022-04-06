@@ -88,7 +88,7 @@ if (forecast === "1") {
           response.data.current.condition.text
         );
 
-        console.log("                ");
+        console.log("");
         console.log(
           "it is now",
           response.data.current.temp_c,
